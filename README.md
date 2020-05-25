@@ -1,4 +1,4 @@
-Trabalho feito pelos alunos do curso de Sistemas de Informação da UDESC-CEPLAN 2018.
+Atividade do curso de Sistemas de Informação da UDESC-CEPLAN 2018.
 
 ---------------------
 Marcos Roberto Ruginski - marcosrobertoruginski@gmail.com
